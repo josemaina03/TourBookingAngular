@@ -1,0 +1,81 @@
+/* Put these styles in: src/home/home.component.css */
+
+.results {
+    display: grid;
+    column-gap: 14px;
+    row-gap: 14px;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 400px));
+    margin-top: 50px;
+    justify-content: space-around;
+  }
+  
+  input[type="text"] {
+    border: solid 1px var(--primary-color);
+    padding: 10px;
+    border-radius: 8px;
+    margin-right: 4px;
+    display: inline-block;
+    width: 30%;
+  }
+  
+  button {
+    padding: 10px;
+    border: solid 1px var(--primary-color);
+    background: var(--primary-color);
+    color: white;
+    border-radius: 8px;
+  }
+  
+  @media (min-width: 500px) and (max-width: 768px) {
+    .results {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    input[type="text"] {
+        width: 70%;
+    }   
+  }
+  
+  @media (max-width: 499px) {
+    .results {
+        grid-template-columns: 1fr;
+    }    
+  }
+  
+  .tours-section {
+    padding: 40px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .tours-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+
+  .hotel-section{
+    padding:40px 0;
+    background-color: #f5f5f5;
+  }
+  .hotel-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  /* .results {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 30px;
+  } */
+  
+  /* @media (max-width: 768px) {
+    .tours-title {
+      font-size: 28px;
+    }
+  
+    .results {
+      grid-template-columns: 1fr;
+    }
+  } */

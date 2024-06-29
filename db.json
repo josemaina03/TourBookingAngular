@@ -1,0 +1,58 @@
+{
+  "hotels": [
+    {
+      "id": 0,
+      "name": "Paradise Hotel Meru",
+      "location": "Meru",
+      "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+      "starrating": 5,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 1,
+      "name": "Beachside Resort Mombasa",
+      "location": "Mombasa",
+      "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+      "starrating": 4,
+      "wifi": true,
+      "laundry": true
+    },
+    {
+      "id": 2,
+      "name": "City Center Hotel Nairobi",
+      "location": "Nairobi",
+      "photo": "/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+      "starrating": 3,
+      "wifi": true,
+      "laundry": true
+    }
+  ],
+
+  "tours": [
+    {
+      "id": 0,
+      "name": "Meru Nature Safari",
+      "destination": "Meru",
+      "description": "Explore the beauty of Meru National Park",
+      "photo": "/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
+      "price": "4000"
+    },
+    {
+      "id": 1,
+      "name": "Mombasa Beach Adventure",
+      "destination": "Mombasa",
+      "description": "Enjoy the sun, sand, and sea in Mombasa",
+      "photo": "/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
+      "price": "4000"
+    },
+    {
+      "id": 2,
+      "name": "Nairobi City Tour",
+      "destination": "Nairobi",
+      "description": "Discover the vibrant city of Nairobi",
+      "photo": "/assets/r-architecture-GGupkreKwxA-unsplash.jpg",
+      "price": "4000"
+    }
+  ]
+}

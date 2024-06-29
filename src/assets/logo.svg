@@ -1,0 +1,6 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M10 40C8.5 40 7 38.5 7 37V25C7 20 7 21 10 18C25 4 20 4 35 18C37 20 37 19 37 24V37C37 38.5 35.5 40 34 40H10Z" fill="#4B4AC4"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M37 42L9 42C8 42 7 43 6 44L5 45L2 50L1 52C0 53 1 54 2 54L30 54C31 54 32 53 33 52L34 50L37 45L38 44C39 43 38 42 37 42Z" fill="#4B4AC4"/>
+  <path d="M4 20C3.5 20 3 19.5 2.5 19C2 18 2 17 3 16C3.5 15.5 5 14 8 11L9 10C11.5 8 13 6 14.5 4.5C17.5 1.5 19 0 21 0C23 0 24 2 27 5C28 6 30 8 32 10.5C32 10.5 32 11 32 11C32.5 11.5 33 12 33.5 12.5C35 14 35.5 15 36 16C36.5 17 36 18 35 18.5C34 19 33 19 32 18C31 17 30 16 29 15C28 14 27 13 27 13C25 11 24 10 23 9C22 8 21 7 21 7H21C20 7 18 8 16 10C14.5 11.5 13 13 11 15C10 16 8 18 8 18C7.5 19 6.5 19.5 5 19.5C4 20 4 20 4 20Z" fill="#4B4AC4"/>
+  <text x="50" y="35" font-family="Verdana" font-size="24" fill="#4B4AC4">HotelsTours</text>
+</svg>
